@@ -1,0 +1,11 @@
+5
+A
+B
+C
+D
+E
+inf 2 3 inf inf
+2 inf 5 1 inf
+3 5 inf 4 6
+inf 1 4 inf inf
+inf inf 6 inf inf
